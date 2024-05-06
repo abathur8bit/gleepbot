@@ -5,7 +5,7 @@ Programs for Gleepbot.
 Test programs to learn how to use a PID loop.
 
 ## encoder_read
-Reads from the encoder via the interrupt.
+Reads from the encoder via the interrupt. Use the serial plotter to see the position realtime.
 
 ## encoder_read_servo
 Reads from the encoder via the interrupt and puts the motor to a specified position. 
